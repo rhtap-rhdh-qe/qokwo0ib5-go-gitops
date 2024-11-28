@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qokwo0ib5-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qokwo0ib5-go
